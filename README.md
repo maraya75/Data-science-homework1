@@ -1,2 +1,2 @@
 # Data-science-homework1
-First Repository for Data Science Coursera practice
+1rst Repository for Data Science Coursera practice
